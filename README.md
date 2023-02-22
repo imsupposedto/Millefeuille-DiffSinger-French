@@ -1,4 +1,4 @@
-# Millefeuille_French_NNSVS
+# Millefeuille_French_NNSVS_Support
 Custom HED and Table for French NNSVS support.
 
 Millefeuille uses a hybrid phonetic system based on Arpabet and Mot allowing for intuitive use.
