@@ -14,10 +14,10 @@ We look forward to the upcoming release of Millefeuille and we thank you for you
 
 Accreditations:
 
-|   Team    | Twitter handles |                       Roles                       |
-|-----------|-----------------|---------------------------------------------------|
-|   Spose   |  @imsupposedto  | Developer, voice bank creator, and voice provider |
-|    Kei    |   @mildemelwe   | Developer, voice bank creator, and voice provider |
-| Gyromancy |   @GyromancyX   | voice bank creator and voice provider             |
-|    Mim    |    @mimsynth    | voice bank creator and voice provider             |
-|   Hibya   |   @Tweek_Twix   | voice bank creator and voice provider             |
+|   Team    | Twitter handles |                        Roles                       |
+|-----------|-----------------|----------------------------------------------------|
+|   Spose   |  @imsupposedto  | Developer, voice model creator, and voice provider |
+|    Kei    |   @mildemelwe   | Developer, voice model creator, and voice provider |
+| Gyromancy |   @GyromancyX   | Voice model creator and voice provider             |
+|    Mim    |    @mimsynth    | Voice model creator and voice provider             |
+|   Hibya   |   @Tweek_Twix   | Voice model creator and voice provider             |
