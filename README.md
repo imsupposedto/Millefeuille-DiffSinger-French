@@ -1,7 +1,7 @@
 # Millefeuille_French_DiffSinger_Language_Support
 Custom HED and Table for French NNSVS support.
 
-Millefeuille uses a hybrid phonetic system based on Arpabet and Mot allowing for intuitive use.
+Millefeuille uses a hybrid phonetic system inspired by Arpabet and Mot allowing for intuitive use.
 
 Millefeuille Extras:
 Allows for use of Japanese data and easy conversion of pre-existing Japanese datasets.
