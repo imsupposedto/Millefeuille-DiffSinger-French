@@ -14,12 +14,12 @@ We look forward to the upcoming release of Millefeuille and we thank you for you
 
 Accreditations:
 
-|   Team    | Twitter handles |                                     Roles                                    |
-|-----------|-----------------|------------------------------------------------------------------------------|
-|   Spose   |  @imsupposedto  | Linguistic developer, model trainer, voice model creator, and voice provider |
-|    Mim    |    @mimsynth    | Dictionary editor, voice model creator, and voice provider                   |
-| Gyromancy |   @GyromancyX   | Voice model creator and voice provider                                       |
-|   Hibya   |   @Tweek_Twix   | Voice model creator and voice provider                                       |
-|   Kaiji   |    @kaiji_fr    | Voice model creator and voice provider                                       |
-|    Kei    |   @mildemelwe   | Voice model creator, and voice provider                                      |
-|  Valshamr |    @valshamr    | Voice provider                                                               |
+|   Team    | Twitter handles |                                     Roles                                     |
+|-----------|-----------------|-------------------------------------------------------------------------------|
+|   Spose   |  @imsupposedto  | Developer, lingustics, model trainer, voice model creator, and voice provider |
+|    Mim    |    @mimsynth    | Dictionary editor, voice model creator, and voice provider                    |
+| Gyromancy |   @GyromancyX   | Voice model creator and voice provider                                        |
+|   Hibya   |   @Tweek_Twix   | Voice model creator and voice provider                                        |
+|   Kaiji   |    @kaiji_fr    | Voice model creator and voice provider                                        |
+|    Kei    |   @mildemelwe   | Voice model creator, and voice provider                                       |
+|  Valshamr |    @valshamr    | Voice provider                                                                |
