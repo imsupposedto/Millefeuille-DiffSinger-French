@@ -17,7 +17,8 @@ Accreditations:
 |   Team    | Twitter handles |                        Roles                       |
 |-----------|-----------------|----------------------------------------------------|
 |   Spose   |  @imsupposedto  | Developer, voice model creator, and voice provider |
-|    Kei    |   @mildemelwe   | Voice model creator, and voice provider |
+|    Kei    |   @mildemelwe   | Voice model creator, and voice provider            |
 | Gyromancy |   @GyromancyX   | Voice model creator and voice provider             |
 |    Mim    |    @mimsynth    | Voice model creator and voice provider             |
 |   Hibya   |   @Tweek_Twix   | Voice model creator and voice provider             |
+|   Kaiji   |    @kaiji_fr    | Voice model creator and voice provider             |
