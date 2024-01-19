@@ -33,8 +33,8 @@
 | w | w | **ou**i |  |
 | uy | ɥ | h**ui**t  |  |
 | ng  | ŋ | campi**ng** |  |
+
 | English extras | IPA | Example word | Description | 
-| ------------- | ------------- | ------------- | ------------- |
 | ax | ə | comm**a** |
 | ay  |  aɪ | t**ie** |
 | ey |  eɪ | w**ay** |
@@ -61,8 +61,8 @@
 | rh  | ɹ | **r**un |
 | dx  | ɾ | bu**tt**er |
 | jh  | d͡ʒ | **j**ump  |
+
 | Japanese extras | IPA | Example word | Description | 
-| ------------- | ------------- | ------------- | ------------- |
 | a | a |  |
 | i  |  i |  |
 | e |  e | |
@@ -72,8 +72,8 @@
 | dx  | ɾ |  Japanese r |
 | dz  | d͡z |   |
 | ts  | t͡s |   |
+
 | Additional sounds | Description | | |
-| ------------- | ------------- | ------------- | ------------- |
 | q | glottal stop |
 | vf  |  vocal fry  |
 | cl | consonant closure |
