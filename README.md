@@ -29,11 +29,11 @@ Special Thanks:
 |   Name    | Twitter handles |                                                Contributions                                                   |
 |-----------|-----------------|----------------------------------------------------------------------------------------------------------------|
 |   Tyler   |   @tigermeat_   | Thank you for providing S'pose with guidence with code and the contribution of scripts for dictionary editing  |
-|    Uta    |    @C5G4D4A3    | Thank you for your community resources such as the nnsvs-db-coverter and check_labs script and PJS base labels |
+|    Uta    |    [@C5G4D4A3](https://twitter.com/C5G4D4A3)    | Thank you for your community resources such as the nnsvs-db-coverter and check_labs script and PJS base labels |
 
 Cross-Lingual Training Contributions:
 |   Corpus  |                     Origins                       |                                         Contributions                                             |
 |-----------|---------------------------------------------------|---------------------------------------------------------------------------------------------------|
-|   Tiger   |                   by tigermeat                    | English data for enhanced English approximation and special phonemes such as tx, tr, and dr       |
-|   Triton  |                   by tigermeat                    | English data for enhanced English approximation and special phonemes such as tx, tr, and dr       |
+|   TIGER   |                   by tigermeat                    | English data for enhanced English approximation and special phonemes such as tx, tr, and dr       |
+|   TRITON  |                   by tigermeat                    | English data for enhanced English approximation and special phonemes such as tx, tr, and dr       |
 |    PJS    |  Shinnosuke Takamichi, Junya Koguchi, Uta, S'pose | Japanese data for enhanced Japanese approximation and Japanese phonemes such as a, i, e, o, and u |
