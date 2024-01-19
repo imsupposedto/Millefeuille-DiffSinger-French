@@ -4,14 +4,14 @@ Custom HED and Table for French NNSVS support.
 The Millefeuille phoneme alias system is based on multiple publicly available systems. Aliases used for French are derived from Mot, Japanese from IPA and Arpabet, and English from Arpabet with a touch of TGM. The manner that these systems interact for optimal language cross training and accent separation was designed by S'pose who utilized IPA theory to achieve these results.
 
 Millefeuille Extras:
-Allows for use of Japanese data and easy conversion of pre-existing Japanese datasets.
-Allows for use of English data and easy conversion of pre-existing English datas
-French, Japanese, and English data can officially be used together for a cross-lingual training and additional language approximation.
-Additional languages can be easily encorporated for cross-lingual training and additional language approximation.
-Canadian/Quebecois phonetics are included for full dialect support.
-European French phonemizer currently available, Canadian french phonemizer coming soon.
-English extras are included to support loanwords and language approximation.
-Japanese extras are included to support loanwords and language approximation.
+- Allows for use of Japanese data and easy conversion of pre-existing Japanese datasets.
+- Allows for use of English data and easy conversion of pre-existing English datas
+- French, Japanese, and English data can officially be used together for a cross-lingual training and additional language approximation.
+- Additional languages can be easily encorporated for cross-lingual training and additional language approximation.
+- Canadian/Quebecois phonetics are included for full dialect support.
+- European French phonemizer currently available, Canadian french phonemizer coming soon.
+- English extras are included to support loanwords and language approximation.
+- Japanese extras are included to support loanwords and language approximation.
 
 
 
