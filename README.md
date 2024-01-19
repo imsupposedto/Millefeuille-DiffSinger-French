@@ -1,5 +1,5 @@
 # Millefeuille_French_DiffSinger_Language_Support
-Custom HED and Table for French NNSVS support.
+Custom resources for the creation of French DiffSinger databases.
 
 The Millefeuille phoneme alias system is based on multiple publicly available systems. Aliases used for French are derived from Mot, Japanese from IPA and Arpabet, and English from Arpabet with a touch of TGM. The manner that these systems interact for optimal language cross training and accent separation was designed by S'pose who utilized IPA theory to achieve these results.
 
