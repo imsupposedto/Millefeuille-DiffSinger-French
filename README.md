@@ -17,18 +17,18 @@ Accreditations:
 
 |   Team    | Twitter handles |                                     Roles                                     |
 |-----------|-----------------|-------------------------------------------------------------------------------|
-|   Spose   |  @imsupposedto  | Developer, lingustics, model trainer, voice model creator, and voice provider |
-|    Mim    |    @mimsynth    | Dictionary editor, voice model creator, and voice provider                    |
-| Gyromancy |   @GyromancyX   | Voice model creator and voice provider                                        |
-|   Hibya   |   @Tweek_Twix   | Voice model creator and voice provider                                        |
-|   Kaiji   |    @kaiji_fr    | Voice model creator and voice provider                                        |
-|    Kei    |   @mildemelwe   | Voice model creator, and voice provider                                       |
-|  Valshamr |    @valshamr    | Voice provider                                                                |
+|   Spose   |  [@imsupposed2](https://twitter.com/Imsupposed2)  | Developer, lingustics, model trainer, voice model creator, and voice provider |
+|    Mim    |    [@mimsynth](https://twitter.com/mimsynth)    | Dictionary editor, voice model creator, and voice provider                    |
+| Gyromancy |   [@GyromancyX](https://twitter.com/GyromancyX)   | Voice model creator and voice provider                                        |
+|   Hibya   |   [@Tweek_Twix](https://twitter.com/Tweek_Twix)   | Voice model creator and voice provider                                        |
+|   Kaiji   |    [@kaiji_fr](https://twitter.com/kaiji_fr)    | Voice model creator and voice provider                                        |
+|    Kei    |   [@mildemelwe](https://twitter.com/mildemelwe)   | Voice model creator, and voice provider                                       |
+|  Valshamr |    [@valshamr](https://twitter.com/valshamr)    | Voice provider                                                                |
 
 Special Thanks:
 |   Name    | Twitter handles |                                                Contributions                                                   |
 |-----------|-----------------|----------------------------------------------------------------------------------------------------------------|
-|   Tyler   |   @tigermeat_   | Thank you for providing S'pose with guidence with code and the contribution of scripts for dictionary editing  |
+|   Tyler   |   [@tigermeat_](https://twitter.com/tigermeat_)   | Thank you for providing S'pose with guidence with code and the contribution of scripts for dictionary editing  |
 |    Uta    |    [@C5G4D4A3](https://twitter.com/C5G4D4A3)    | Thank you for your community resources such as the nnsvs-db-coverter and check_labs script and PJS base labels |
 
 Cross-Lingual Training Contributions:
