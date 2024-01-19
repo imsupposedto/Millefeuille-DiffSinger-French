@@ -13,10 +13,6 @@ Millefeuille Extras:
 - English extras are included to support loanwords and language approximation.
 - Japanese extras are included to support loanwords and language approximation.
 
-
-
-We look forward to the upcoming release of Millefeuille and we thank you for your interest.
-
 Accreditations:
 
 |   Team    | Twitter handles |                                     Roles                                     |
