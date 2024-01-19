@@ -1,4 +1,4 @@
-| Millefeuille phoneme | IPA| Example word | Description |
+| Millefeuille phoneme | IPA | Example word | Description |
 | ------------- | ------------- | ------------- | ------------- |
 | ah |  a/ɑ | p**a**tte | |
 | eh  | e | cl**é** |  |
@@ -33,7 +33,7 @@
 | w | w | **ou**i |  |
 | uy | ɥ | h**ui**t  |  |
 | ng  | ŋ | campi**ng** |  |
-| English extras | IPA| Description |
+| English extras | IPA | Example word | Description | 
 | ------------- | ------------- | ------------- | ------------- |
 | ax | ə | comm**a** |
 | ay  |  aɪ | t**ie** |
@@ -61,7 +61,7 @@
 | rh  | ɹ | **r**un |
 | dx  | ɾ | bu**tt**er |
 | jh  | d͡ʒ | **j**ump  |
-| Japanese extras | IPA| Description |
+| Japanese extras | IPA | Example word | Description | 
 | ------------- | ------------- | ------------- | ------------- |
 | a | a |  |
 | i  |  i |  |
@@ -72,7 +72,7 @@
 | dx  | ɾ |  Japanese r |
 | dz  | d͡z |   |
 | ts  | t͡s |   |
-| Additional sounds | Description |
+| Additional sounds | Description | | |
 | ------------- | ------------- | ------------- | ------------- |
 | q | glottal stop |
 | vf  |  vocal fry  |
