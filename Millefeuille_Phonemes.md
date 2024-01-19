@@ -33,7 +33,7 @@
 | w | w | **ou**i |  |
 | uy | ɥ | h**ui**t  |  |
 | ng  | ŋ | campi**ng** |  |
-| English extras |-----|-----|-----| 
+| English extras | | | | 
 | ax | ə | comm**a** |
 | ay  |  aɪ | t**ie** |
 | ey |  eɪ | w**ay** |
@@ -60,7 +60,7 @@
 | rh  | ɹ | **r**un |
 | dx  | ɾ | bu**tt**er |
 | jh  | d͡ʒ | **j**ump  |
-| Japanese extras |-----|-----|-----| 
+| Japanese extras | | | | 
 | a | a |  |
 | i  |  i |  |
 | e |  e | |
@@ -70,7 +70,7 @@
 | dx  | ɾ |  Japanese r |
 | dz  | d͡z |   |
 | ts  | t͡s |   |
-| Additional sounds |-----|-----|-----|
+| Additional sounds | | | | 
 | q | | | glottal stop |
 | vf | | | vocal fry  |
 | cl | | | consonant closure |
