@@ -21,6 +21,7 @@
 | k | k | **c**orps |   |
 | l  | l | **l**aisser |  |
 | m  | m | **m**a |  |
+| n  | n | **n**uit |  |
 | p | p | **p**ère  |  |
 | r | ʁ |  **r**ega**r**der |  |
 | s | s |  **s**ans | |
