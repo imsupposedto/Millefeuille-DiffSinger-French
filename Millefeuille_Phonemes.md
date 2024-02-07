@@ -61,6 +61,8 @@
 | rh  | ɹ | **r**un |
 | dx  | ɾ | bu**tt**er |
 | jh  | d͡ʒ | **j**ump  |
+| rr  | ʀ | uvuvlar trill  |
+| rx  | r | tongue trill  |
 | Japanese extras | | | | 
 | a | a |  |
 | i  |  i |  |
